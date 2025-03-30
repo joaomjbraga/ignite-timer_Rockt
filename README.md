@@ -6,7 +6,7 @@
 
 <p  align='center'>
   <img src='https://img.shields.io/badge/license-MIT-%23835afd' alt='License' />
-  <img src='https://img.shields.io/badge/forks-MIT-%23835afd' alt='Forks' />
+  <img src='https://img.shields.io/badge/github-MIT-%23835afd' alt='Forks' />
   <img src='https://img.shields.io/badge/stars-MIT-%23835afd' alt='Stars' />
 </p>
 
